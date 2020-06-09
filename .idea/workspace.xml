@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d163e4e-fa4d-4bbc-a2a1-0861aaf91ccb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d3YpTHbpD8f7QGBJnocxFu3MkT" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ArrayFlattenerTestSuite">
+    <configuration name="ArrayFlattenerTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDDSamples" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayFlattenerTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayFlattenerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDDSamples" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayFlattenerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayReversorTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDDSamples" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayReversorTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayReversorTests.shouldReverseArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDDSamples" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayReversorTests" />
+      <option name="METHOD_NAME" value="shouldReverseArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayReversorTests.shouldReverseArrayWithNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDDSamples" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayReversorTests" />
+      <option name="METHOD_NAME" value="shouldReverseArrayWithNULL" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayFlattenerTestSuite" />
+        <item itemvalue="JUnit.ArrayReversorTests.shouldReverseArrayWithNULL" />
+        <item itemvalue="JUnit.ArrayReversorTests" />
+        <item itemvalue="JUnit.ArrayReversorTests.shouldReverseArray" />
+        <item itemvalue="JUnit.ArrayFlattenerTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591656272910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="312" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1591656272910" />
+    <state width="1323" height="345" key="GridCell.Tab.0.bottom" timestamp="1591708823084">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="345" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591708823084" />
+    <state width="1323" height="345" key="GridCell.Tab.0.center" timestamp="1591708823083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="345" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591708823083" />
+    <state width="1323" height="345" key="GridCell.Tab.0.left" timestamp="1591708823083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="345" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591708823083" />
+    <state width="1323" height="345" key="GridCell.Tab.0.right" timestamp="1591708823083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="345" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591708823083" />
+    <state width="1323" height="375" key="GridCell.Tab.1.bottom" timestamp="1591658904062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="375" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591658904062" />
+    <state width="1323" height="375" key="GridCell.Tab.1.center" timestamp="1591658904061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="375" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591658904061" />
+    <state width="1323" height="375" key="GridCell.Tab.1.left" timestamp="1591658904061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="375" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591658904061" />
+    <state width="1323" height="375" key="GridCell.Tab.1.right" timestamp="1591658904061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="375" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591658904061" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1591658732396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591658732396" />
+  </component>
+</project>
